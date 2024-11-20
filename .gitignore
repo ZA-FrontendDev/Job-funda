@@ -1,5 +1,6 @@
 # Dependencies
 /node_modules
+/env
 
 # Compiled output
 /android/app/build
